@@ -5,8 +5,8 @@ class Kosh < Formula
 
   # Update url and sha256 on each release.
   # Generate sha256: curl -fsSL <url> | shasum -a 256
-  url "https://github.com/VaarunSinha/kosh/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "b72e516ee6da678f0ced42823b371949648cf9acd0b8f168c4841e54f1936e3e"
+  url "https://github.com/VaarunSinha/kosh/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "4b805c7e3b1f65d4f11294251d0a25dfe44b8938a1b1d50fa315c6242091f706"
 
   head "https://github.com/VaarunSinha/kosh.git", branch: "main"
 
